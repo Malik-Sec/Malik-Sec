@@ -29,8 +29,8 @@
 ---
 
 ### 🤝 Connect with me
-- 💼 **LinkedIn:** [linkedin.com/in/maliksec](#)
-- 📧 **Contact:** `hello@maliksec.ci`
+- 💼 **LinkedIn:** [www.linkedin.com/in/malik-djao-5ba400335](#)
+- 📧 **Contact:** `djaokouakoupro@gmail.com`
 - 🌐 **Portfolio:** *En cours de déploiement (Next.js/Supabase)*
 
 ---
