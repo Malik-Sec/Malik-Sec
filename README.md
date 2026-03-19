@@ -22,8 +22,8 @@
 ---
 
 ### 📊 GitHub Activity
-![Stats de MalikSec](https://github-readme-stats.vercel.app/api?username=MalikSec&show_icons=true&theme=tokyonight&hide_border=true)
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=MalikSec&layout=compact&theme=tokyonight&hide_border=true)
+![Stats de MalikSec](https://github-readme-stats.vercel.app/api?username=Malik-Sec&show_icons=true&theme=tokyonight&hide_border=true)
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Malik-Sec&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
