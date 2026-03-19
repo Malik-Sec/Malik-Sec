@@ -1,4 +1,40 @@
-## Hi there 👋
+# 🛡️ Profile: MalikSec
+> `whoami`
+> **Malik** | Étudiant en Cybersécurité & Passionné d'Infrastructure 🇨🇮
+
+---
+
+### 📡 Terminal Status
+- 🔭 **Projet Actuel :** Développement de **DeepWatch**, plateforme d'IA pour la surveillance maritime et la souveraineté numérique.
+- 🛡️ **Focus :** Sécurité offensive/défensive, monitoring (SIEM/IDS) et durcissement système (Hardening).
+- ⚙️ **Environnement :** Arch Linux (Hyprland) | Proxmox | VMware.
+- 🎯 **Objectif :** Contribuer à la cyber-résilience territoriale et concevoir des architectures cloud sécurisées (OCI).
+
+---
+
+### 🛠️ Tech Stack & Toolbox
+
+| Domaine | Outils & Technologies |
+| :--- | :--- |
+| **Cybersecurity** | `Network Attacks (MitM)` `SIEM` `DLP` `IDS/IPS` `OCI Security` |
+| **Système & Ops** | `Arch Linux` `Windows Server` `Zsh` `Virtualization` |
+| **Web Dev** | `React` `Tailwind CSS` `Supabase` `High-End UI` |
+
+---
+
+### 📊 GitHub Activity
+![Stats de MalikSec](https://github-readme-stats.vercel.app/api?username=MalikSec&show_icons=true&theme=tokyonight&hide_border=true)
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=MalikSec&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 🤝 Connect with me
+- 💼 **LinkedIn:** [linkedin.com/in/maliksec](#)
+- 📧 **Contact:** `hello@maliksec.ci`
+- 🌐 **Portfolio:** *En cours de déploiement (Next.js/Supabase)*
+
+---
+*“In security, we trust. In code, we verify.”*
 
 <!--
 **Malik-Sec/Malik-Sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
