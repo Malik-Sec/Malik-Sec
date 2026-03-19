@@ -16,7 +16,7 @@
 | Domaine | Outils & Technologies |
 | :--- | :--- |
 | **Cybersecurity** | `Network Attacks (MitM)` `SIEM` `DLP` `IDS/IPS` `OCI Security` |
-| **Système & Ops** | `Arch Linux` `Windows Server` `Zsh` `Virtualization` |
+| **Système & Ops** | `Debian` `Windows Server` `Zsh` `Virtualization` |
 | **Web Dev** | `React` `Tailwind CSS` `Supabase` `High-End UI` |
 
 ---
