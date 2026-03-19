@@ -6,10 +6,9 @@
 
 ### 📡 Terminal Status
 - 🔭 **Projet Actuel :** Développement de **DeepWatch**, plateforme d'IA pour la surveillance maritime et la souveraineté numérique.
-- 🛡️ **Focus :** Sécurité offensive/défensive, monitoring (SIEM/IDS) et durcissement système (Hardening).
-- ⚙️ **Environnement :** Arch Linux (Hyprland) | Proxmox | VMware.
-- 🎯 **Objectif :** Contribuer à la cyber-résilience territoriale et concevoir des architectures cloud sécurisées (OCI).
-
+- 🛡️ **Focus :** Sécurité offensive/défensive, monitoring (**SIEM/IDS**) et durcissement système (**Hardening**).
+- ⚙️ **Écosystème :** **Debian GNU/Linux** (Desktop) | **Proxmox VE** & **VMware** (Lab Infrastructure).
+- 🎯 **Objectif :** Contribuer à la cyber-résilience territoriale et concevoir des architectures cloud sécurisées (**OCI**).
 ---
 
 ### 🛠️ Tech Stack & Toolbox
